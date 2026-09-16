@@ -12,4 +12,4 @@ Johanna Paola Perez Hernandez
 
 ## Mi meta
 
-Terminar mi carrera universitaria y convertirme en una gran arquitecta 
+Terminar mi carrera universitaria y convertirme en una gran arquitecta  para futuro
