@@ -17,3 +17,6 @@ Terminar mi carrera universitaria y convertirme en una gran arquitecta  para fut
 ##Cosas que no me gustan
 1.Salir de casa
 2.Tener tarea
+## Cosas que no me gustan
+1. Salir de casa
+2. Tener tarea
